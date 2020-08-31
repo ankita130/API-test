@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2893" started-at="2020-08-31T18:16:13 IST" finished-at="2020-08-31T18:16:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2893" started-at="2020-08-31T18:16:13 IST" finished-at="2020-08-31T18:16:16 IST">
+      <class name="com.ankita.casestudy.apitest.TestAPI">
+        <test-method status="PASS" signature="test_4()[pri:0, instance:com.ankita.casestudy.apitest.TestAPI@623a8092]" name="test_4" duration-ms="2869" started-at="2020-08-31T18:16:13 IST" description="test case 4: validate post request" finished-at="2020-08-31T18:16:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_4 -->
+      </class> <!-- com.ankita.casestudy.apitest.TestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
